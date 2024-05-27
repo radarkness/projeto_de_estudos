@@ -1,0 +1,10 @@
+produto_1 = int(input("Digite um número: "))
+produto_2 = int(input("Digite outro número: "))
+
+print("Soma:", produto_1 + produto_2)
+print("Subtração:", produto_1 - produto_2)
+print("Multiplicação:", produto_1 * produto_2)
+print("Divisão:", produto_1 / produto_2)
+print("Divisão inteira:", produto_1 // produto_2)
+print("Resto da divisão:", produto_1 % produto_2)
+print("Potência:", produto_1 ** produto_2)

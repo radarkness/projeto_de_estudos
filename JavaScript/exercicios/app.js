@@ -19,5 +19,6 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     } else {
         alert('Formulário enviado com sucesso!');
         // Aqui você pode adicionar o código para enviar o formulário via AJAX ou similar.
+        //Teste
     }
 });
